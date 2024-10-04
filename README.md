@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://avatars.mds.yandex.net/i?id=76e8d89f97c87f2a899bc05c540db96c_l-8102231-images-thumbs&n=13" width="500"/>
+</div>
+
 # Image Search  
 
 ## Описание проекта
